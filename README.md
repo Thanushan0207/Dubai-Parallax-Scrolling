@@ -14,6 +14,3 @@ Pictures:
 
 <img src="https://github.com/Thanushan0207/Dubai-Parallax-Scrolling/assets/131554091/32625ef1-cd5b-4878-9997-41221ac4cc51">
 <img src="https://github.com/Thanushan0207/Dubai-Parallax-Scrolling/assets/131554091/c76e0928-966f-478a-912c-b2868868920a">
-
-https://github.com/Thanushan0207/Dubai-Parallax-Scrolling/assets/131554091/5be76fa3-a74a-45f3-b22d-6dfb13640ca4
-
